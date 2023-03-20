@@ -7,6 +7,6 @@ Make a simple game using Python
 - Wining game when you get the target.
 
 ## Demo gameplay
-<img src='demo1.png' width='700'>
-<img src='demo2.png' width='700'>
-<img src='demo3.png' width='700'>
+<img src='demo1.png' width='1000'>
+<img src='demo2.png' width='1000'>
+<img src='demo3.png' width='1000'>
